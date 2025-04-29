@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/saranyasandy2926/saranyasandy2926/c2e712d62760faf3b863d7421cab05b3034f0a30/WhatsApp%20Image%202025-04-29%20at%204.58.12%20PM.jpeg
+![logo](![logo](https://raw.githubusercontent.com/saranyasandy2926/saranyasandy2926/c2e712d62760faf3b863d7421cab05b3034f0a30/WhatsApp%20Image%202025-04-29%20at%204.58.12%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Saranya Palanki</h1>
 <h3 align="center">Deep Dive into AI/ML — Code Snippets and Real-World Examples</h3>
    
